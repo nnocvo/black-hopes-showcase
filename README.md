@@ -20,7 +20,7 @@ Ucronía ambientada en 1492: la peste negra nunca retrocedió y acabó con los r
 - **Sistema de Santidad**: un medidor moral que cambia precios, diálogos y misiones disponibles.
 - **Inventario con peso**: apilar, equipar, consumir y soltar objetos en el mapa.
 
-![Mapa del mundo](docs/img/mapa-mundo.png)
+
 
 ---
 
